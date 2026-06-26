@@ -1,7 +1,7 @@
 """
 Hybrid RAG: Dense Vector Search + Sparse BM25 -> Reciprocal Rank Fusion -> LLM
 Runs fully offline with fake embeddings and mock LLM responses.
-"""
+"""""
 
 import math
 import re
